@@ -26,7 +26,7 @@ Synchronous up counters are used in various applications, such as: Event countin
 Frequency dividers Addressing in memory systems
 Their primary advantage is the uniform timing and faster operation due to the simultaneous
 updates of all flip-flops.
-**4 bit synchronous UP Counter**
+# 4 bit synchronous UP Counter
 
 If we enable each J-K flip-flop to toggle based on whether or not all preceding flip-flop outputs (Q) are “high,” we can obtain the same counting sequence as the asynchronous circuit without the ripple effect, since each flip-flop in this circuit will be clocked at exactly the same time:
 
