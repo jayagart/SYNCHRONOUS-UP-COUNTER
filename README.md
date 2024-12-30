@@ -79,7 +79,8 @@ endmodule
 
 
 # OUTPUT WAVEFORM:
-![im1](https://github.com/user-attachments/assets/791b572f-9da1-43fe-bdc5-0b713e160967)
+![WhatsApp Image 2024-12-26 at 10 04 51_68453b7e](https://github.com/user-attachments/assets/6b9f0f3e-277a-437a-ac4a-7420d721add7)
+
 
 # RESULTS:
 Thus 4 bit synchronous up counter is implemented using verilog and validate using their waveform, verified successfully.
