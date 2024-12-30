@@ -1,6 +1,6 @@
 ## NAME:JAYAGAR.T
 ## REG.NO:24901219
-# EXP.NO-7: SYNCHRONOUS-UP-COUNTER
+# EXP.NO-7:IMPLEMENTATION OF SYNCHRONOUS-UP-COUNTER
 
  # AIM:
 
@@ -82,4 +82,4 @@ endmodule
 ![im1](https://github.com/user-attachments/assets/791b572f-9da1-43fe-bdc5-0b713e160967)
 
 # RESULTS:
-Thus 4 bit synchronous up counter is implemented using verilog and validate using their waveform.
+Thus 4 bit synchronous up counter is implemented using verilog and validate using their waveform, verified successfully.
